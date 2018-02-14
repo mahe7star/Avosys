@@ -7,7 +7,7 @@
                     <div class="header-search">                       
                     </div>                   
                     <ul class="menuzord-menu menuzord-menu-bg">
-                    <li class="active"><a href="home.html">Home</a>                        
+                    <li class="active"><a href="home.php">Home</a>                        
                     </li>
                     <li><a href="about-1.html">About Us</a>     
                     </li>
@@ -18,13 +18,13 @@
                                 <ul class="dropdown">
                                     <li><a href="header-1.html">Services</a>
                                         <ul class="dropdown">
-                                            <li><a href="header-1.html">Home Loan</a></li>
-                                            <li><a href="header-2.html">Loan Against Property</a></li>
-                                            <li><a href="header-3.html">Purchase of Commercial Property</a></li>
-                                            <li><a href="header-4.html">Lease Rental Discounting</a></li>
-                                            <li><a href="header-5.html">Business Loan</a></li>
-                                            <li><a href="header-5.html">Balance Transfer</a></li>
-                                            <li><a href="header-3.html">EMI Calculator</a></li>
+                                            <li><a href="header-1.php">Home Loan</a></li>
+                                            <li><a href="header-2.php">Loan Against Property</a></li>
+                                            <li><a href="header-3.php">Purchase of Commercial Property</a></li>
+                                            <li><a href="header-4.php">Lease Rental Discounting</a></li>
+                                            <li><a href="header-5.php">Business Loan</a></li>
+                                            <li><a href="header-5.php">Balance Transfer</a></li>
+                                            <li><a href="header-3.php">EMI Calculator</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="header-6.html">List of Documents</a>
@@ -52,7 +52,7 @@
                         
                     
                                             
-                    <li><a href="blog-grid.html">Get Associated With Us </a>
+                    <li><a href="blog-grid.php">Get Associated With Us </a>
                     </li>       
                     <li><a href="contact.html">Contact Us</a></li>
                     </ul>
