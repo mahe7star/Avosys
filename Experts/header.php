@@ -41,7 +41,7 @@
                             <li><a href="header-1.html">Project Financing</a>
                                         <ul class="dropdown">
                                             <li><a href="header-1.html">Working Capital</a></li>
-                                            <li><a href="header-2.html">Tearm Loan</a></li>
+                                            <li><a href="header-2.html">Term Loan</a></li>
                                             <li><a href="header-3.html">Balance Transfer</a></li>
                                             <li><a href="header-3.html">EMI Calculator</a></li>
                                         </ul>
