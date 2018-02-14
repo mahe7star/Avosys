@@ -22,9 +22,9 @@
                                             <li><a href="loan-against-property.php">Loan Against Property</a></li>
                                             <li><a href="purchase-of-commercial-property.php">Purchase of Commercial Property</a></li>
                                             <li><a href="lease-rental-discounting.php">Lease Rental Discounting</a></li>
-                                            <li><a href="Bussiness-loan.php">Business Loan</a></li>
-                                            <li><a href="Balance-transfer.php">Balance Transfer</a></li>
-                                            <li><a href="Emi.php">EMI Calculator</a></li>
+                                            <li><a href="bussiness-loan.php">Business Loan</a></li>
+                                            <li><a href="balance-transfer.php">Balance Transfer</a></li>
+                                            <li><a href="emi.php">EMI Calculator</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="#">List of Documents</a>
@@ -40,10 +40,10 @@
                             </li>
                             <li><a href="#">Project Financing</a>
                                         <ul class="dropdown">
-                                            <li><a href="Working-capital.php">Working Capital</a></li>
-                                            <li><a href="Term-loan.php">Term Loan</a></li>
-                                            <li><a href="Balance-transfer.php">Balance Transfer</a></li>
-                                            <li><a href="Emi.php">EMI Calculator</a></li>
+                                            <li><a href="working-capital.php">Working Capital</a></li>
+                                            <li><a href="term-loan.php">Term Loan</a></li>
+                                            <li><a href="balance-transfer.php">Balance Transfer</a></li>
+                                            <li><a href="bmi.php">EMI Calculator</a></li>
                                         </ul>
                                     </li>  
                         </ul>

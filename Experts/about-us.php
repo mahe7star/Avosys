@@ -82,7 +82,6 @@
                   <div class="page-bredcrumbs-area text-right">
                      <ul  class="page-bredcrumbs">
                         <li><a href="#">Home</a></li>
-                        <li><a href="#">Pages</a></li>
                         <li><a href="#">About Us</a></li>
                      </ul>
                   </div>
