@@ -9,14 +9,14 @@
                     <ul class="menuzord-menu menuzord-menu-bg">
                     <li class="active"><a href="home.php">Home</a>                        
                     </li>
-                    <li><a href="about-1.html">About Us</a>     
+                    <li><a href="about-us.php">About Us</a>     
                     </li>
                     <!--Services-->
-                        <li><a href="about-1.html">Services</a>
+                        <li><a href="#">Services</a>
                         <ul class="dropdown">
                             <li><a href="header-1.php">Retail Mortgage</a>
                                 <ul class="dropdown">
-                                    <li><a href="header-1.php">Services</a>
+                                    <li><a href="#">Services</a>
                                         <ul class="dropdown">
                                             <li><a href="home-loan.php">Home Loan</a></li>
                                             <li><a href="loan-against-property.php">Loan Against Property</a></li>
@@ -27,7 +27,7 @@
                                             <li><a href="Emi.php">EMI Calculator</a></li>
                                         </ul>
                                     </li>
-                                    <li><a href="header-6.html">List of Documents</a>
+                                    <li><a href="#">List of Documents</a>
                                         <ul class="dropdown">
                                             <li><a href="header-6.html">For Salaried</a></li>
                                             <li><a href="header-7.html">For Professionals</a></li>
@@ -38,7 +38,7 @@
                                     
                                 </ul>
                             </li>
-                            <li><a href="header-1.html">Project Financing</a>
+                            <li><a href="#">Project Financing</a>
                                         <ul class="dropdown">
                                             <li><a href="Working-capital.php">Working Capital</a></li>
                                             <li><a href="Term-loan.php">Term Loan</a></li>
