@@ -14,9 +14,9 @@
                     <!--Services-->
                         <li><a href="about-1.html">Services</a>
                         <ul class="dropdown">
-                            <li><a href="header-1.html">Retail Mortgage</a>
+                            <li><a href="header-1.php">Retail Mortgage</a>
                                 <ul class="dropdown">
-                                    <li><a href="header-1.html">Services</a>
+                                    <li><a href="header-1.php">Services</a>
                                         <ul class="dropdown">
                                             <li><a href="header-1.php">Home Loan</a></li>
                                             <li><a href="header-2.php">Loan Against Property</a></li>
