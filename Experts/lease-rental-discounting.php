@@ -5,7 +5,7 @@
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <!-- TITLE -->
-      <title>Experts</title>
+      <title>Lease Rental Discounting</title>
       <!-- FAVICON -->
       <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />      
       <!-- Bootstrap -->
@@ -63,7 +63,7 @@
        <!-- =========================
         START HEADER SECTION
       ============================== -->  
-      <?php include 'header.php';?>
+      <?php include 'header.php'; ?>
       <!-- =========================
         END HEADER SECTION
       ============================== -->
@@ -74,16 +74,16 @@
       <div class="page-title-area header-v-area">
          <div class="container">
             <div class="row">
-               <div class="col-sm-6 col-md-6">
+               <div class="col-sm-6 col-md-8">
                   <div class="page-title-left">
-                     <h2>Home Loan</h2>
+                     <h2>Lease Rental Discounting</h2>
                   </div>
                </div>
-               <div class="col-sm-6 col-md-6">
+               <div class="col-sm-6 col-md-4">
                   <div class="page-bredcrumbs-area text-right">
                      <ul  class="page-bredcrumbs">
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">Home Loan</a></li>
+                        <li><a href="#">Services</a></li>
+                        <li><a href="#">Lease Rental Discounting</a></li>
                      </ul>
                   </div>
                </div>
@@ -102,28 +102,31 @@
                <div class="row">
                    <div class="col-md-12">
                        <div class="f-h1-head">
-                           <center> <img src="images/loan/loan1.png" >
-                           <h1>Home Loan</h1></center>
-                           <p>Take a step closer to your dream home with top Bank home loans. 
-                               <br/>
-                             Banks offer among the most feature-packed home loans in India. Besides free document storage, get approvals on your home loan even before you choose a property. We also provide guidance on buying a property when you apply for home loans. 
-                            <br/>
-                            With quick processing and attractive interest rates, Bank’s home loans are hassle-free and customer-friendly. In addition, women who apply for home loans are eligible for lower interest rates.</p>
+                       <div class="col-md-6">
+                            <img src="images/loan/loan2.jpg" >
+                       </div>    
+                       <div class="col-md-6">
+                           <h1>lease rental discounting</h1>
+                           <p>We always strive for innovation to benefit our customers in as many ways possible.<br/> 
+                             That’s why we offer a rent securitization scheme wherein we provide loan against assured rental receivable from a property owned by you, which has been let out to a Bank, Multinational Company, AA* or AAA* Rated Corporate and Government/ Semi Government Undertakings.</p>
+                       </div>
                        </div>
                    </div>
                    <div class="col-md-12">
-                       <div class="f-h1-head f-h2-head">
-                           <center><h2>Benefits</h2></center>
-                           <p>
-                               <center>
-                               <img src="images/loan/homeloan1.png" width="80">
-                               <img src="images/loan/homeloan2.png" width="80">
-                               <img src="images/loan/homeloan3.png" width="80">
-                               <img src="images/loan/homeloan4.png" width="80">
-                               
-                           <h4>Quick Proceesing |Free & Safe Document Storage | Interest rates | Special lower interest for women</h4>  
-                           </center>
-                                   </p>
+                       <div class="f-h1-head f-h2-head" >
+                           <h2 style="text-align:center">Benefits</h2>
+                           <div class="container-fluid loan-category-div" style="padding:30px">
+                               <ol class="ol-loan">
+                                 <li>Provides an extensive range of non-home loan products like Loan for Purchase & Construction of Commercial Property, Loan Against Residential & Commercial Property and Lease Rental Discounting.</li>
+                                 <li>Pan India branch network.</li>
+                                 <li>Robust service delivery model – door step services ensuring easy and fast approval & disbursal of loans.</li>
+                                 <li>Excellent post disbursement services.</li>
+                                 <li>Facility of enhancement in loan amount in the event of escalations in cost.</li>
+                                 <li>Dedicated team of well-experienced employees who work on best-in-class information systems & network to deliver and provide customer satisfaction.</li>
+                               </ol>
+                           </div>
+                           
+
                        </div>
                    </div> 
                 

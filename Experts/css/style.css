@@ -160,7 +160,7 @@ a:hover, a:focus {
     padding-top: 0px;
 }
 .ds_padding.header-area{
-    padding: 0px 0px 0px 0px;
+    padding: 0px 0px 10px 0px;
     -webkit-transition: all .5s;
     -o-transition: all .5s;
     transition: all .5s;
@@ -5148,13 +5148,13 @@ ul.home-10-pagination{
     font-size: 14px;
 }
 .f-h1-head p{
-font-family: 'Lora', serif;
-    font-size: 13px;
-    color: #9b9b9b;
+    font-family: 'Lora', serif;
+    font-size: 14px;
+    color: #696969;
     line-height: 24px;
     font-weight: normal;
-    text-transform: capitalize;   
-    margin-bottom: 30px; 
+    text-transform: initial;
+    margin-bottom: 30px;
 }
 .typo-column{}
 .typo-column h2{
@@ -7357,7 +7357,17 @@ input.shop-submit:hover{
     height: 330px;
     width: 100%;
 }
-
+.loan-category{
+    margin: 20px 0;
+    font-weight: 700;
+}
+.loan-category-div img{
+    width:80px;
+    height: 60px;
+}
+.ol-loan li{
+    margin:10px;
+}
 @media(max-width: 767px){
  #map {
     height: 330px;

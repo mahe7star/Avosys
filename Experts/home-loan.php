@@ -5,7 +5,7 @@
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <!-- TITLE -->
-      <title>Experts</title>
+      <title>Home Loan</title>
       <!-- FAVICON -->
       <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />      
       <!-- Bootstrap -->
@@ -102,28 +102,43 @@
                <div class="row">
                    <div class="col-md-12">
                        <div class="f-h1-head">
-                           <center> <img src="images/loan/loan1.png" >
-                           <h1>Home Loan</h1></center>
+                       <div class="col-md-6">
+                            <img src="images/loan/loan1.png" >
+                       </div>    
+                       <div class="col-md-6">
+                           <h1>Home Loan</h1>
                            <p>Take a step closer to your dream home with top Bank home loans. 
                                <br/>
                              Banks offer among the most feature-packed home loans in India. Besides free document storage, get approvals on your home loan even before you choose a property. We also provide guidance on buying a property when you apply for home loans. 
                             <br/>
                             With quick processing and attractive interest rates, Bank’s home loans are hassle-free and customer-friendly. In addition, women who apply for home loans are eligible for lower interest rates.</p>
                        </div>
+                           
+                       </div>
                    </div>
                    <div class="col-md-12">
-                       <div class="f-h1-head f-h2-head">
-                           <center><h2>Benefits</h2></center>
-                           <p>
-                               <center>
-                               <img src="images/loan/homeloan1.png" width="80">
-                               <img src="images/loan/homeloan2.png" width="80">
-                               <img src="images/loan/homeloan3.png" width="80">
-                               <img src="images/loan/homeloan4.png" width="80">
-                               
-                           <h4>Quick Proceesing |Free & Safe Document Storage | Interest rates | Special lower interest for women</h4>  
-                           </center>
-                                   </p>
+                       <div class="f-h1-head f-h2-head" style="text-align:center;">
+                           <h2>Benefits</h2>
+                           <div class="container-fluid loan-category-div" style="padding:60px">
+                                <div class="col-md-3">
+                                        <img src="images/loan/homeloan1.png">
+                                        <div class="loan-category">Quick Proceesing</div>
+                                </div>
+                                <div class="col-md-3">
+                                        <img src="images/loan/homeloan2.png">
+                                        <div class="loan-category">Free & Safe Document Storage</div>
+                                </div>
+                                <div class="col-md-3">
+                                        <img src="images/loan/homeloan3.png">
+                                        <div class="loan-category">Interest rates</div>
+                                </div>
+                                <div class="col-md-3">
+                                        <img src="images/loan/homeloan4.png">
+                                        <div class="loan-category">Special lower interest for women</div>
+                                </div>
+                           </div>
+                           
+
                        </div>
                    </div> 
                 
