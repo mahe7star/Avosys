@@ -18,13 +18,13 @@
                                 <ul class="dropdown">
                                     <li><a href="header-1.php">Services</a>
                                         <ul class="dropdown">
-                                            <li><a href="header-1.php">Home Loan</a></li>
-                                            <li><a href="header-2.php">Loan Against Property</a></li>
-                                            <li><a href="header-3.php">Purchase of Commercial Property</a></li>
-                                            <li><a href="header-4.php">Lease Rental Discounting</a></li>
-                                            <li><a href="header-5.php">Business Loan</a></li>
-                                            <li><a href="header-5.php">Balance Transfer</a></li>
-                                            <li><a href="header-3.php">EMI Calculator</a></li>
+                                            <li><a href="home-loan.php">Home Loan</a></li>
+                                            <li><a href="loan-against-property.php">Loan Against Property</a></li>
+                                            <li><a href="purchase-of-commercial-property.php">Purchase of Commercial Property</a></li>
+                                            <li><a href="lease-rental-discounting.php">Lease Rental Discounting</a></li>
+                                            <li><a href="Bussiness-loan.php">Business Loan</a></li>
+                                            <li><a href="Balance-transfer.php">Balance Transfer</a></li>
+                                            <li><a href="Emi.php">EMI Calculator</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="header-6.html">List of Documents</a>
@@ -40,10 +40,10 @@
                             </li>
                             <li><a href="header-1.html">Project Financing</a>
                                         <ul class="dropdown">
-                                            <li><a href="header-1.html">Working Capital</a></li>
-                                            <li><a href="header-2.html">Term Loan</a></li>
-                                            <li><a href="header-3.html">Balance Transfer</a></li>
-                                            <li><a href="header-3.html">EMI Calculator</a></li>
+                                            <li><a href="Working-capital.php">Working Capital</a></li>
+                                            <li><a href="Term-loan.php">Term Loan</a></li>
+                                            <li><a href="Balance-transfer.php">Balance Transfer</a></li>
+                                            <li><a href="Emi.php">EMI Calculator</a></li>
                                         </ul>
                                     </li>  
                         </ul>
@@ -54,10 +54,10 @@
                                             
                     <li><a href="blog-grid.php">Get Associated With Us </a>
                     </li>       
-                    <li><a href="contact.html">Contact Us</a></li>
+                    <li><a href="contact.php">Contact Us</a></li>
                     </ul>
                     <div class="appointment-area">
-                        <p><a href="#">Happy to help You Always !</a></p>
+                        <p><a href="contact.php">Happy to help You Always !</a></p>
                     </div>                     
             </div>
         </div>
